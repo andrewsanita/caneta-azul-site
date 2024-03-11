@@ -1,8 +1,8 @@
 :root{
-    --roxo: #696969;
+    --azulcaneta: #4f9edf;
 }
 
 
 body{
-    background-color: rgba(7, 136, 250, 0.918);
+    background-color: var(--azulcaneta);
 }
