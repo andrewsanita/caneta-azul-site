@@ -23,8 +23,8 @@ header{
     background-color: var(--branco);
     border-radius: 30px;
     border: dashed 3px blue;
-    margin: 20px 40px;
-    pardding: 20px;
+    margin: 20px;
+    padding: 40px ;
 }
 
 .img-intro{
