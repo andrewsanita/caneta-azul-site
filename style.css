@@ -17,3 +17,14 @@ header{
     align-items: center;
     justify-content: space-around;
 }
+
+#intro{
+    display: flex;
+    background-color: var(--branco);
+    border-radius: 30px;
+    border: dashed 3px blue;
+}
+
+.img-intro{
+    width: 20%;
+}
