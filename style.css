@@ -34,3 +34,8 @@ header{
 .equipe{
     text-align: center;
 }
+
+.integrantes{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
