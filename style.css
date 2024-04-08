@@ -38,5 +38,8 @@ header{
 .integrantes{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    width: 20% 20% 20%;
+}
+
+.ft_integrante{
+    width: 30%;
 }
