@@ -43,3 +43,8 @@ header{
 .ft_integrante{
     width: 40%;
 }
+
+.manuel-gomes-azuis{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
