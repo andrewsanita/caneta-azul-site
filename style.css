@@ -57,3 +57,8 @@ footer{
     background-color: antiquewhite;
     color: black;
 }
+
+a{
+    color: black;
+    text-decoration: none;
+}
