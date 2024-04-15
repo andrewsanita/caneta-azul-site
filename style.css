@@ -44,11 +44,16 @@ header{
     width: 40%;
 }
 
+.manuel-azul{
+    width: 40%;
+}
+
 .manuel-gomes-azuis{
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
 
 footer{
-    
+    background-color: antiquewhite;
+    color: black;
 }
