@@ -5,6 +5,7 @@
 
 body{
     background-color: var(--azulcaneta);
+
 }
 
 
@@ -25,7 +26,7 @@ header{
     border: dashed 3px blue;
     margin: 20px;
     padding: 40px ;
-    font-size: large;
+    font-size: 30px;
 }
 
 .img-intro{
