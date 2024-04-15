@@ -26,11 +26,11 @@ header{
     border: dashed 3px blue;
     margin: 20px;
     padding: 40px ;
-    font-size: 30px;
+    font-size: 27px;
 }
 
 .img-intro{
-    width: 50%;
+    width: 100%;
 }
 
 #equipe{
