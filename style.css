@@ -49,6 +49,7 @@ header{
 }
 
 .manuel-gomes-azuis{
+    text-align: center;
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
