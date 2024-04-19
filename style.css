@@ -62,11 +62,3 @@ header a{
     color: black;
     text-decoration: none;
 }
-
-.manuel-vermelho{
-    display: flex;
-    background-color: #636363;
-    margin: 20px;
-    padding: 40px ;
-    font-size: 27px;
-}
