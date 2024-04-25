@@ -46,7 +46,7 @@ header{
 }
 
 .manuel-azul{
-    display: center;
+    display: grid;
     width: 40%;
 }
 
