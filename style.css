@@ -45,11 +45,11 @@ header{
 }
 
 .manuel-azul{
-    width: 10%;
+    width: 40%;
 }
 
 .manuel-gomes-azuis{
-    display: center;
+    display: grid;
     grid-template-columns: 33% 33% 33%;
 }
 
