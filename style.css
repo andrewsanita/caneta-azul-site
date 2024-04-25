@@ -32,7 +32,6 @@ header{
 }
 
 #equipe{
-    display: center;
     text-align: center;
 }
 
@@ -42,19 +41,15 @@ header{
 }
 
 .ft_integrante{
-    display: grid;
-    grid-template-columns: 33% 33% 33%
+    width: 40%;
 }
 
 .manuel-azul{
-    display: grid;
-    align-items: center;
     width: 40%;
 }
 
 .manuel-gomes-azuis{
     display: grid;
-    align-items: center;
     grid-template-columns: 33% 33% 33%;
 }
 
