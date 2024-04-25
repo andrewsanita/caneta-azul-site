@@ -46,8 +46,7 @@ header{
 }
 
 .manuel-azul{
-    display: flex;
-    align-items: center;
+    display: center;
     width: 40%;
 }
 
