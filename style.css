@@ -20,7 +20,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: blue;
+    background-color: rgb(107, 107, 243);
 }
 
 #intro{
