@@ -2,10 +2,6 @@
     --azulcaneta: #ffffff;
 }
 
-*{
-    margin: 0;
-}
-
 body{
     background-color: var(--azulcaneta);
 
@@ -17,6 +13,7 @@ img{
     width: 40%;
 } 
 header{
+    margin: 0;
     display: flex;
     align-items: center;
     justify-content: space-around;
