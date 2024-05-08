@@ -13,20 +13,35 @@ img{
     width: 40%;
 } 
 header{
+    font-size: 20px;
     margin: 0;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(107, 107, 243);
+    background-color:#00C2FF;
 
+}
+
+.azul a{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+}
+
+.vermelha a{
+    color: white;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
 }
 
 #intro{
     display: flex;
-    background-color: #636363;
+    background-color: #afafaf;
     margin: 20px;
+    margin-left: 100px;
     padding: 40px ;
     font-size: 27px;
+
 }
 
 .img-intro{
@@ -49,6 +64,7 @@ header{
     display: grid;
     text-align: center;
     grid-template-columns: 33% 33% 33%;
+    margin-left: 100px;
 }
 
 footer{
