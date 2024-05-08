@@ -22,6 +22,12 @@ header{
 
 }
 
+.equipe a{
+    color: white;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
 .azul a{
     color: white;
     background-color: blue;
